@@ -43,7 +43,7 @@ _AYT Automater uses Pixabay Api, so get yourself one_
    ```
 4. Extract the Zip file (if you downloaded it)
    ```sh
-   npm install
+   or you can use winrar to extract it
    ```
 5. Install Dependencies with [requirements.bat] or open cmd in the directory and install with Pip
    ```sh
