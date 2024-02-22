@@ -1,4 +1,4 @@
-<h1 align="center">AYT Automater 😎 </h4>
+<h1 align="center">AYT Automater 😎 (Ass Youtube Automater)</h4>
 
 <h4 align="center">AYTautomater (AssYT automater) | A youtube automater program made in less than 2 hours... 🥴🥴</h4>
 
